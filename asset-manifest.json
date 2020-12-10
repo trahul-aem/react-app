@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.a884f21d.chunk.css",
+    "main.js": "/react-app/static/js/main.fabadc0b.chunk.js",
+    "main.js.map": "/react-app/static/js/main.fabadc0b.chunk.js.map",
+    "runtime-main.js": "/react-app/static/js/runtime-main.83f2f914.js",
+    "runtime-main.js.map": "/react-app/static/js/runtime-main.83f2f914.js.map",
+    "static/js/2.6e9ed21b.chunk.js": "/react-app/static/js/2.6e9ed21b.chunk.js",
+    "static/js/2.6e9ed21b.chunk.js.map": "/react-app/static/js/2.6e9ed21b.chunk.js.map",
+    "static/js/3.b5fb8da9.chunk.js": "/react-app/static/js/3.b5fb8da9.chunk.js",
+    "static/js/3.b5fb8da9.chunk.js.map": "/react-app/static/js/3.b5fb8da9.chunk.js.map",
+    "index.html": "/react-app/index.html",
+    "static/css/main.a884f21d.chunk.css.map": "/react-app/static/css/main.a884f21d.chunk.css.map",
+    "static/js/2.6e9ed21b.chunk.js.LICENSE.txt": "/react-app/static/js/2.6e9ed21b.chunk.js.LICENSE.txt",
+    "static/media/bars-solid.e8db7520.svg": "/react-app/static/media/bars-solid.e8db7520.svg",
+    "static/media/shopping-cart-solid.415c0624.svg": "/react-app/static/media/shopping-cart-solid.415c0624.svg",
+    "static/media/times-solid.0b3adf36.svg": "/react-app/static/media/times-solid.0b3adf36.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83f2f914.js",
+    "static/js/2.6e9ed21b.chunk.js",
+    "static/css/main.a884f21d.chunk.css",
+    "static/js/main.fabadc0b.chunk.js"
+  ]
+}
